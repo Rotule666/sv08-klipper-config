@@ -476,7 +476,7 @@ variable_chamber_fan: False                      # Do you have a temperature con
 variable_chamber_sensor: False                   # Do you have a temperature monitoring sensor in your chamber True/False
 variable_chamber_heater: False                   # Do you have a chamber heater? Have you agreed to the use of this hardware with these macros above?
 variable_bed_fans: False                         # Do you have any under bed mounted fans True/False 
-variable_runout_sensor: False                     # Do you have a Filament Runout Sensor switch type inc. BTT Smart Senor True/False
+variable_runout_sensor: True                     # Do you have a Filament Runout Sensor switch type inc. BTT Smart Senor True/False
 variable_encoder_runout_sensor: False            # Do you have a encoder based Filament Runout Sensor like the BTT Smart Sensor True/False
 variable_nevermore: False                        # Do you have a Nevermore Fan system True/False
 variable_shutdown_relay: False                   # Do you have a Moonraker Power Device Shutdown Relay True/False
